@@ -4,7 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/layout/activity_podcast.xml" value="0.19519927536231885" />
+        <entry key="app/src/main/res/layout/episode_item.xml" value="0.21693840579710144" />
+        <entry key="app/src/main/res/layout/fragment_podcast_details.xml" value="0.21693840579710144" />
         <entry key="app/src/main/res/layout/search_item.xml" value="0.19519927536231885" />
+        <entry key="app/src/main/res/menu/menu_details.xml" value="0.28125" />
         <entry key="app/src/main/res/menu/menu_search.xml" value="0.28125" />
       </map>
     </option>
